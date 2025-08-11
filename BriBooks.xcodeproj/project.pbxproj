@@ -75,7 +75,7 @@
 		A3E6DD682E4A800D006677FA = {
 			isa = PBXGroup;
 			children = (
-				A3E6DD732E4A800D006677FA /* BriBooks */,
+				A3E6DDA02E4AA0D5006677FA /* New Group */,
 				A3E6DD832E4A800F006677FA /* BriBooksTests */,
 				A3E6DD8D2E4A800F006677FA /* BriBooksUITests */,
 				A3E6DD722E4A800D006677FA /* Products */,
@@ -90,6 +90,14 @@
 				A3E6DD8A2E4A800F006677FA /* BriBooksUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A3E6DDA02E4AA0D5006677FA /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				A3E6DD732E4A800D006677FA /* BriBooks */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
